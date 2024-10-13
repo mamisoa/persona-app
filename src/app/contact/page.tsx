@@ -5,7 +5,7 @@ export default function Contact() {
         <p className="mb-4">
           We'd love to hear from you! If you have any questions, feedback, or inquiries, please don't hesitate to reach out.
         </p>
-        <div className="bg-white p-6 rounded-lg shadow-md">
+        <div className="bg-grey p-6 rounded-lg shadow-md">
           <h2 className="text-xl font-semibold mb-2">Contact Information</h2>
           <p className="mb-2"><strong>Email:</strong> support@aiautomation.com</p>
           <p className="mb-2"><strong>Phone:</strong> +1 (555) 123-4567</p>
